@@ -96,6 +96,7 @@ let ucetambolunenler,
   besyuzdenkucuksayilar,
   siralisayilar,
   tekraredensayilar;
+  saryilar;
 
 // 3a çözümü
 
